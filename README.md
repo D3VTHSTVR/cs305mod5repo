@@ -15,6 +15,8 @@ To do the hokie-poki, follow these steps:
 
 To execute the hokie pokie succesfully, you must own at least one right foot.
 
+# Hokie-Tri-Pokie Module
+Adding a crazy THIRD DIMENSION to the classic.
 
 ## License
 
